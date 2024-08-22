@@ -1,6 +1,8 @@
 # Inpainting_GIT_Images
 This repository contains notebooks that follow the procedure of inpainting on medical images. The dataset used is KVASIR from Kaggle and a UNET architecture has been used for training a segmentation model. 
 
+Dataset: https://www.kaggle.com/datasets/abdallahwagih/kvasir-dataset-for-classification-and-segmentation?select=kvasir-seg
+
 For inpainting, stable-diffusion inpainting model from runway-ml has been used. 
 https://huggingface.co/runwayml/stable-diffusion-inpainting
 
